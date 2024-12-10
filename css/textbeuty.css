@@ -1,0 +1,14 @@
+.d6 h3 {
+  text-align: center;
+  padding-bottom: 60px;
+}
+.d6 h3:after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 50%;
+  margin-left: -15%;
+  width: 30%;
+  height: 2px;
+  background: #FA5F4C;
+}
